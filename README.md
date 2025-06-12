@@ -8,3 +8,4 @@ The description of the products are the model names, phone image, RAM, storage s
 Features for admins include all functionality of customers, adding, updating, and deleting any smartphone products.
 
 Website link: http://chuakmsmarttech.rf.gd/login.php
+It is recommended to use UC Browser to access the website for a smoother user experience.
