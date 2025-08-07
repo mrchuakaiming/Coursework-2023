@@ -9,3 +9,4 @@ Features for admins include all functionality of customers, adding, updating, an
 
 Website link: http://chuakmsmarttech.rf.gd/login.php
 It is recommended to use UC Browser to access the website for a smoother user experience.
+*This website is written in Bahasa Melayu (BM) as part of the coursework language requirements for Sijil Pelajaran Malaysia (SPM), Computer Science (Sains Komputer).
